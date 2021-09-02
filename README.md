@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Benarnie
 - 👀 I’m interested in football (soccer for you Americans), gaming and socialising. 
-- 🌱 I’m currently learning Front End Web Development on theodinproject.com.
+- 🌱 I’m currently learning Front End Web Development on theodinproject.com
 - 📫 You can reach me on my instagram @Benarnie 
 
 <!---
